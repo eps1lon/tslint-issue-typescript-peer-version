@@ -1,5 +1,5 @@
 # 
-See palantir/tslint#
+See [palantir/tslint#4106](https://github.com/palantir/tslint/issues/4106)
 
 ## Steps to reproduce
 ```bash
