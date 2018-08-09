@@ -5,11 +5,11 @@ See palantir/tslint#
 ```bash
 git clone https://github.com/eps1lon/tslint-issue-typescript-peer-version.git
 cd tslint-issue-typescript-peer-version
-npm install
+npm install # or yarn
 npm start
 ```
 
-__Expected:__ Successful build or npm install warns about missing peer dependency.
+__Expected:__ Successful build or install warns about missing peer dependency.
 __Actual:__
 ```bash
 node_modules/tslint/lib/language/utils.d.ts(52,57): error TS1005: ',' expected.
